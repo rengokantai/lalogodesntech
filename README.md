@@ -6,3 +6,10 @@ Window->Font->Opentype
 Then all I'll need to do is click on the discretionary ligatures button.  
 03:05  
 type-create outline
+
+
+##3. Type Treatments
+###1 Outlined type
+
+03:09  
+object-.offset path,set -6
